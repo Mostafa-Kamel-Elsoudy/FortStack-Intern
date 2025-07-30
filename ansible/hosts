@@ -1,0 +1,3 @@
+[vm]
+# Replace with your VM's IP address or hostname and SSH user details
+<vm_ip> ansible_user=<ssh_user> ansible_ssh_private_key_file=~/.ssh/id_rsa
